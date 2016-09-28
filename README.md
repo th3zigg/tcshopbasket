@@ -1,6 +1,6 @@
 # Shopping Basket Example
 
-This code demonstrates a shopping basket with logic for apply discounts
+This code demonstrates a shopping basket with logic for applying discounts.
 
 ### Testing 
 
